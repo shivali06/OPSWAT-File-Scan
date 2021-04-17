@@ -1,0 +1,14 @@
+{
+  "name": "opswatchallenge",
+  "version": "1.0.0",
+  "description": "Scan file by OPSWAT's Metadefender API,and sharing data scan results from the file. ",
+  "scan": "scan.js",
+  "scripts": {
+    "test": "echo \"Error: no test \" && exit 1"
+  },
+  "author": "Shivali Choudhary",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
